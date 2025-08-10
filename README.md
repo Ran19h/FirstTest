@@ -18,4 +18,5 @@ Crouch: Left Ctrl
 
 Jump: Space
 
-Quit: Esc
+
+Ranih Abdulmajeed Almalki 
